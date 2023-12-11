@@ -7,11 +7,6 @@ import org.bukkit.event.HandlerList;
 import org.jetbrains.annotations.NotNull;
 
 public class PlayerLanguageChangeEvent extends Event implements Cancellable {
-    @NotNull
-    public static String coord = "%%__USER__%%";
-
-    @NotNull
-    public static String farm = "%%__NONCE__%%";
 
     public static HandlerList handlerList = new HandlerList();
     public static String wind = "%%__USER__%%";
@@ -19,12 +14,12 @@ public class PlayerLanguageChangeEvent extends Event implements Cancellable {
     public static String vi = "vi-VI";
     public static int sf = 42342;
     @NotNull
-    public static String blockUtil = "%%__USER__%%";
+    public static String coord = "%%__USER__%%";
     @NotNull
     public static String adf = "5928693";
     public static String de = "de-DE";
     @NotNull
-    public static String mysql = "%%__NONCE__%%";
+    public static String farm = "%%__NONCE__%%";
     public static String ud = "24263";
     public static String cz = "cz-CZ";
     @NotNull
