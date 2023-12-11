@@ -62,7 +62,7 @@ dependencies {
 }
 
 group = "com.github.angeschossen"
-version = "4.1.1"
+version = "5.8.2"
 description = "BetterFarmingAPI"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
