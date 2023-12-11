@@ -1,2 +1,2 @@
 /build
-src/main/java/me/angeschossen/upgradeablespawners/api/events/PlayerLanguageChangeEvent.java
+src/main/java/me/angeschossen/betterfarming/api/events/PlayerLanguageChangeEvent.java
