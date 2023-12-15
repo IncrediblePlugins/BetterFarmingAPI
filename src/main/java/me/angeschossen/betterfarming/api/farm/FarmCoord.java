@@ -1,5 +1,6 @@
 package me.angeschossen.betterfarming.api.farm;
 
+import org.bukkit.TreeType;
 import org.jetbrains.annotations.NotNull;
 
 /**
